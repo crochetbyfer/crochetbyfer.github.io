@@ -1,0 +1,54 @@
+header {
+    width: 100%;
+    padding: 32Px;
+    color: white;
+    text-align: center;
+    background: rgb(233, 165, 165);
+}
+
+nav ul {
+    list-style: none;
+    background:  rgb(22, 21, 21);
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 20px;   
+    transition: all ease-in-out 200ms;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none; 
+}
+
+nav ul li:hover {
+    background: rgb(129, 108, 108);
+}
+
+.hide {
+    font-size: 22px;
+    padding: 16px;
+    background:  rgb(22, 21, 21);
+    color: white;
+    cursor: pointer;
+    display: none;
+}
+
+@media (max-width: 768px) {
+    ul li {
+      width: 100%;
+      padding: 16px;
+      text-align: left;
+    }
+  
+    .hide {
+      display: block;
+    }
+  
+    nav ul {
+    display: none;
+  
+    }
+  }

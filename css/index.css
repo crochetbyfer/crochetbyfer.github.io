@@ -1,0 +1,64 @@
+.info {
+    margin: auto;
+    width: 75%;
+    height: 220px;
+    text-align: left;
+}
+
+.info p {
+    position: relative;
+    text-align: right;
+    font-size: 20px;
+    padding-left: 360px;
+    bottom: 150px;
+}
+
+.quien_soy {
+    position: relative;
+    display: inline-block;
+    font-size: 37px;
+    bottom: 124px;
+    left: 27px;
+}
+
+.imagen_quien_soy {
+    display: inline-block;
+    margin-top: 26px;
+    margin-left: 29px;
+    margin-bottom: 43px;
+    border-radius: 50%;
+}
+
+.descripcion_quien_soy {
+    display: inline-block;
+    position: relative;
+    left: 25px;
+    bottom: 85px;   
+}
+
+.ideas {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 15px;
+}
+
+
+.ideas_top {
+    text-align: center;
+    font-size: 28px;
+    padding-top: 30px;
+}
+
+.ideas_bolsos {
+    text-align: center;
+    font-size: 28px;
+    padding-top: 30px;
+}
+
+section img {
+    padding: 25px 35px;
+    width: 425px;
+    height: 425px;
+    border-radius: 50%;
+}
+
