@@ -31,8 +31,8 @@
             <nav class="navigation">
                 <ul>
                     <li><a href="/">Inicio</a></li>
-                    <li><a href="productos.html" class="redict_tienda">Productos</a></li>
-                    <li><a href="clientes_felices.html" class="redict_clientes_felices">Clientes Felices</a></li>
+                    <li><a href="productos.php" class="redict_tienda">Productos</a></li>
+                    <li><a href="clientes_felices.php" class="redict_clientes_felices">Clientes Felices</a></li>
                     <li><a href="#" class="$">Cuenta</a></li>
                 </ul>
                 <div class="hide">
